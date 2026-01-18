@@ -1,0 +1,2 @@
+# Predicting-Variation-in-Emotional-Valence-and-Arousal-over-Time-from-Ecological-Essays
+This repository contains the CS445 project focusing on predicting emotional valence and arousal from ecological essays (SemEval-2026 Task 2). It features a regression-based approach using NLP models to analyze temporal and contextual emotional shifts, including data cleaning, BERT and deBERTa based modeling, and performance evaluation.
